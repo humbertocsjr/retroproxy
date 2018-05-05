@@ -10,6 +10,7 @@ I'm made changes in macproxy project to adapt for newer machines like iMac G3
 - Run pip install -r requirements.txt OR sudo pip install -r requirements.txt
 - Run python proxy.py 
 - Set proxy on retro machine to IP:5000
+- Use http:// protocol only on vintage machine, proxy automatically convert https only sites
 - Be happy =)
 
 # Systemd setup
