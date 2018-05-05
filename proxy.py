@@ -1,4 +1,3 @@
-from macify import macify
 import requests
 from flask import request, Flask
 
