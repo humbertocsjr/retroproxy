@@ -1,5 +1,6 @@
-# retroproxy
+# retroproxy :)
 Retrocomputing web proxy eliminates TLS
+
 I'm made changes in macproxy project to adapt for newer machines like iMac G3
 
 # Requirements
