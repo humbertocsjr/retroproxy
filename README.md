@@ -18,13 +18,16 @@ I'm made changes in macproxy project to adapt for newer machines like iMac G3
 - Paste this:
 
 \[Unit\]
+
 Description=MAC Proxy
 
 \[Service\]
+
 Type=simple
 ExecStart=/usr/bin/python [PATH TO PROXY]/proxy.py
 
 \[Install\]
+
 WantedBy=multi-user.target
 
 - Run systemctl enable proxymac
